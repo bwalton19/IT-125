@@ -1,3 +1,11 @@
 Christopher Jones
 Ivan Rivas
 Bria Walton
+Jason Wagner
+Faisal Aldubays 
+Sraiy Sultan
+<<<<<<< HEAD
+Maddie Warndorf
+=======
+Abdullah Alrfeedi
+>>>>>>> origin/master
